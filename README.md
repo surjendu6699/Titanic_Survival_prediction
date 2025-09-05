@@ -31,7 +31,7 @@ The goal is to demonstrate **data preprocessing, feature engineering, and buildi
 ##  How to Run  
 
 # Clone the repository
-git clone https://github.com/surjendu6699/titanic-survival-prediction.git  
+git clone https://github.com/surjendu6699/Titanic_Survival_prediction
 
 # Install dependencies
 pip install -r requirements.txt  
